@@ -9,10 +9,10 @@ Scripts are written on Perl and hase following dependencies:
 Usage:
 ======
 
-* juick-delete-posts.pl - script for deleting all your Juick posts, except excludes. Using:
-	juick-delete-posts.pl <Juick user name> <Juick HTTP-Password> [excludes]
+* juick-delete-posts.pl - script for deleting all your Juick posts, except excludes. Using:<br />
+	&nbsp;&nbsp;&nbsp;juick-delete-posts.pl &lt;Juick user name&gt; &lt;Juick HTTP-Password&gt [excludes]
 
-Example:
-	./juick-delete-posts.pl sunx Password 2316685 2315836 2315774
+Example:<br />
+	&nbsp;&nbsp;&nbsp;./juick-delete-posts.pl sunx Password 2316685 2315836 2315774
 	
-Also this script will write all recieved JSON answer to file "storage.<Juick user name>.txt"
+Also this script will write all recieved JSON answer to file "storage.&lt;Juick user name&gt;.txt"
