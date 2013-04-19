@@ -5,6 +5,7 @@ Set of scripts for deleting Your post from Juick.
 
 Scripts are written on Perl and hase following dependencies:
 * JSON module ( http://search.cpan.org/~makamaka/JSON-2.57/ )
+* curl ( http://curl.haxx.se/ )
 
 Usage:
 ======
